@@ -3,11 +3,12 @@
 </div>
 
 <!-- Navigation -->
-<div align="center" style="margin: 20px 0;">
-  <a href="#about" style="margin: 0 15px; text-decoration: none; color: #00FFFF; font-family: Sora, sans-serif;">About</a> •
-  <a href="#skills" style="margin: 0 15px; text-decoration: none; color: #00FFFF; font-family: Sora, sans-serif;">Skills</a> •
-  <a href="#projects" style="margin: 0 15px; text-decoration: none; color: #00FFFF; font-family: Sora, sans-serif;">Projects</a> •
-  <a href="#contact" style="margin: 0 15px; text-decoration: none; color: #00FFFF; font-family: Sora, sans-serif;">Contact</a>
+<!-- Navigation -->
+<div align="center" style="margin: 20px 0; font-family: 'Sora', sans-serif;">
+  <a href="#about" style="margin: 0 15px; color: #00FFFF;">About</a> •
+  <a href="#skills" style="margin: 0 15px; color: #00FFFF;">Skills</a> •
+  <a href="#projects" style="margin: 0 15px; color: #00FFFF;">Projects</a> •
+  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">Contact</a>
 </div>
 
 <!-- Social Badges -->
