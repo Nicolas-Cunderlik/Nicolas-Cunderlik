@@ -4,7 +4,7 @@
 
 <!-- Navigation -->
 <!-- Navigation -->
-<div align="center" style="margin: 20px 0; font-family: 'Trebuchet-MS', sans-serif;">
+<div align="center" style="margin: 20px 0; font-family: 'Trebuchet MS', sans-serif;">
   <a href="#about" style="margin: 0 15px; color: #00FFFF;">About</a> •
   <a href="#skills" style="margin: 0 15px; color: #00FFFF;">Skills</a> •
   <a href="#projects" style="margin: 0 15px; color: #00FFFF;">Projects</a> •
