@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nicolas+Cunderlik;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=05309E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nicolas+Cunderlik;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <!-- Navigation -->
@@ -77,6 +77,6 @@
 <hr style="border: 0.5px solid #30363d; margin: 30px 0;">
 
 <div align="center">
-  <p>⚡ Fun fact: I [interesting fact about you]</p>
+  <p>⚡ Fun fact: I make music!</p>
   <p>🎶 Currently listening to: [current song]</p>
 </div>
