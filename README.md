@@ -3,12 +3,19 @@
 </div>
 
 <!-- Navigation -->
-<!-- Navigation -->
-<div align="center" style="margin: 20px 0; font-family: 'Trebuchet MS', sans-serif;">
-  <a href="#about" style="margin: 0 15px; color: #00FFFF;">ABOUT</a> •
-  <a href="#skills" style="margin: 0 15px; color: #00FFFF;">SKILLS</a> •
-  <a href="#projects" style="margin: 0 15px; color: #00FFFF;">PROJECTS</a> •
-  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">CONTACT</a>
+<div align="center" style="margin: 30px 0; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <a href="#about" style="text-decoration: none; padding: 8px 20px; border-radius: 20px; background: #2b113d; color: #e0aaff; border: 1px solid #6d28d9; transition: all 0.3s ease; font-family: 'Sora', sans-serif; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    About
+  </a>
+  <a href="#skills" style="text-decoration: none; padding: 8px 20px; border-radius: 20px; background: #2b113d; color: #e0aaff; border: 1px solid #6d28d9; transition: all 0.3s ease; font-family: 'Sora', sans-serif; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    Skills
+  </a>
+  <a href="#projects" style="text-decoration: none; padding: 8px 20px; border-radius: 20px; background: #2b113d; color: #e0aaff; border: 1px solid #6d28d9; transition: all 0.3s ease; font-family: 'Sora', sans-serif; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    Projects
+  </a>
+  <a href="#contact" style="text-decoration: none; padding: 8px 20px; border-radius: 20px; background: #2b113d; color: #e0aaff; border: 1px solid #6d28d9; transition: all 0.3s ease; font-family: 'Sora', sans-serif; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    Contact
+  </a>
 </div>
 
 <!-- Social Badges -->
