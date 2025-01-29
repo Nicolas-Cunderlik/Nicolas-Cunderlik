@@ -5,10 +5,10 @@
 <!-- Navigation -->
 <!-- Navigation -->
 <div align="center" style="margin: 20px 0; font-family: 'Trebuchet MS', sans-serif;">
-  <a href="#about" style="margin: 0 15px; color: #00FFFF;">About</a> •
-  <a href="#skills" style="margin: 0 15px; color: #00FFFF;">Skills</a> •
-  <a href="#projects" style="margin: 0 15px; color: #00FFFF;">Projects</a> •
-  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">Contact</a>
+  <a href="#about" style="margin: 0 15px; color: #00FFFF;">ABOUT</a> •
+  <a href="#skills" style="margin: 0 15px; color: #00FFFF;">SKILLS</a> •
+  <a href="#projects" style="margin: 0 15px; color: #00FFFF;">PROJECTS</a> •
+  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">CONTACT</a>
 </div>
 
 <!-- Social Badges -->
