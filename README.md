@@ -33,8 +33,8 @@
 </div>
 
 <!-- Skills Section -->
-<h2 id="skills" style="color: #00FF00; justify-content: center">🛠️ Tech Stack</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<h2 id="skills" style="color: #00FF00;">🛠️ Tech Stack</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -42,8 +42,8 @@
 </div>
 
 <!-- Projects Section -->
-<h2 id="projects" style="color: #00FF00; justify-content: center">🔥 Featured Projects</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+<h2 id="projects" style="color: #00FF00;">🔥 Featured Projects</h2>
+<div style="display: grid; justify-content: center; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
     <h3>Project 1</h3>
     <p>Project description goes here. Built with [technologies].</p>
