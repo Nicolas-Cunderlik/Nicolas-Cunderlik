@@ -27,10 +27,10 @@
 <!-- About Section -->
 <h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-  <p>I'm a passionate [your profession/role] specializing in [your specialties]. Love building things that make a difference!</p>
-  <p>💻 Currently working on: [current project]</p>
-  <p>🌱 Learning: [current learning focus]</p>
-  <p>🎯 2023 Goals: [your goals]</p>
+  <p>I'm a passionate CS student at Carleton University specializing in the AI/ML stream. Love building things that make a difference!</p>
+  <p>💻 Currently working on: Spotistats, Anatomics, and school!</p>
+  <p>🌱 Learning: Trying to enhance my proficiency in front-end APIs and frameworks.</p>
+  <p>🎯 2025 Goals: My main goals for this year are to enhance my programming skills in front-end technologies and databases, catch a musky, and bench 315</p>
 </div>
 
 <!-- Skills Section -->
