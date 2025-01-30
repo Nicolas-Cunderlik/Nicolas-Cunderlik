@@ -65,13 +65,13 @@
 <!-- Contact Section -->
 <h2 id="contact" style="color: #00FF00;">📫 Let's Connect</h2>
 <div align="center" style="margin: 20px 0;">
-  <a href="mailto:youremail@example.com" style="text-decoration: none;">
+  <a href="mailto:nicolas7cunderlik@gmail.com" style="text-decoration: none;">
     <button style="background-color: #00FF00; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Send Email</button>
   </a>
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=00FF00" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Nicolas-Cunderlik&style=flat-square&color=00FF00" alt="Profile Views">
 </div>
 
 <hr style="border: 0.5px solid #30363d; margin: 30px 0;">
