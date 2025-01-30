@@ -45,7 +45,7 @@
 <div style="display: grid; justify-content: center; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
     <h3>Spotistats</h3>
-    <p>Ever heard your favourite song and wondered how you could make a beat with a similar vibe? Spotistats gets you instant chord progression suggestions to match your currently listening song so you never experience beat block again! -Ever feel like the album covers on Spotify just don't get big enough? Click on the album cover in Spotistats to render it to your whole display!</p>
+    <p>Ever heard your favourite song and wondered how you could make a beat with a similar vibe? Spotistats gets you instant chord progression suggestions to match your currently listening song so you never experience beat block again! -Ever feel like the album covers on Spotify just don't get big enough? Clicking the album cover in Spotistats renders it to the whole display!</p>
     <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
       <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" width="33%">
       <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" width="33%">
