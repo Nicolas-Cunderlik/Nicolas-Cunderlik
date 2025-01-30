@@ -42,8 +42,8 @@
 <h2 id="projects" style="color: #00FF00;">🔥 Featured Projects</h2>
 <div style="display: grid; justify-content: center; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <h3>Project 1</h3>
-    <p>Project description goes here. Built with [technologies].</p>
+    <h3>Spotistats</h3>
+    <p>Ever heard your favourite song and wondered how you could make a beat with a similar vibe? Spotistats gets you instant chord progression suggestions to match your currently listening song so you never experience beat block again!</p>
     <a href="#" style="color: #00FFFF;">View Project →</a>
   </div>
   <!-- Add more project cards -->
