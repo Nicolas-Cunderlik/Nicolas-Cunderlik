@@ -60,7 +60,7 @@
 <h2 style="color: #00FF00;">📈 GitHub Stats</h2>
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Cunderlik&show_icons=true&theme=dark" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Cunderlik&theme=dark" alt="Streak Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Cunderlik&theme=dark" alt="Streak Stats" width="47%">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Cunderlik&layout=compact&theme=dark" alt="Top Languages">
