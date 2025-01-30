@@ -51,7 +51,7 @@
       <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" width="33%">
       <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" width="33%">
     </div>
-    <a href="#" style="color: #00FFFF;">View Project →</a>
+    <a href="https://github.com/Nicolas-Cunderlik/Spotistats" style="color: #00FFFF;">View Project →</a>
   </div>
   <!-- Add more project cards -->
 </div>
