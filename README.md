@@ -26,7 +26,7 @@
   <p>I'm a passionate CS student at Carleton University specializing in the AI/ML stream. Love building things that make a difference!</p>
   <p>💻 Currently working on: Spotistats, Anatomics, and school!</p>
   <p>🌱 Learning: Trying to enhance my proficiency in front-end APIs and frameworks.</p>
-  <p>🎯 2025 Goals: My main goals for this year are to enhance my programming skills in front-end technologies and databases. I plan to enhance these skills by creating a web portfolio.</p>
+  <p>🎯 2025 Goals: My main goals for this year are to enhance my programming skills in front-end technologies and databases by building a personal web portfolio.</p>
 </div>
 
 <!-- Skills Section -->
