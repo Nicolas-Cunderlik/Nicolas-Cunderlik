@@ -75,5 +75,5 @@
 
 <div align="center">
   <p>⚡ Fun fact: I make music!</p>
-  <p>🎶 Currently listening to: [current song]</p>
+  <p>🎶 Currently listening to: Love$ick - Mura Masa, A$AP ROCKY</p>
 </div>
