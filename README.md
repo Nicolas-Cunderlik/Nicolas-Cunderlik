@@ -46,6 +46,9 @@
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
     <h3>Spotistats</h3>
     <p>Ever heard your favourite song and wondered how you could make a beat with a similar vibe? Spotistats gets you instant chord progression suggestions to match your currently listening song so you never experience beat block again!</p>
+    <div align="center" style="margin-top: 30px;">
+      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG">
+    </div>
     <a href="#" style="color: #00FFFF;">View Project →</a>
   </div>
   <!-- Add more project cards -->
