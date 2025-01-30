@@ -46,10 +46,10 @@
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
     <h3>Spotistats</h3>
     <p>Ever heard your favourite song and wondered how you could make a beat with a similar vibe? Spotistats gets you instant chord progression suggestions to match your currently listening song so you never experience beat block again!</p>
-    <div align="center" style="margin-top: 30px;">
-      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG">
-      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG">
-      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" width="250">
+      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" width="250">
+      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" width="250">
     </div>
     <a href="#" style="color: #00FFFF;">View Project →</a>
   </div>
