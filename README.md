@@ -54,14 +54,11 @@
     <a href="https://github.com/Nicolas-Cunderlik/Spotistats" style="color: #00FFFF;">View Project →</a>
   </div>
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <h3>Spotistats</h3>
-    <p>Ever heard your favourite song and wondered how you could make a beat with a similar vibe? Spotistats gets you instant chord progression suggestions to match your currently listening song so you never experience beat block again! -Ever feel like the album covers on Spotify just don't get big enough? Clicking the album cover in Spotistats renders it to the whole display!</p>
+    <h3>Anatomics</h3>
+    <p>Modern day fitness apps just don't cut it! Newcomers to the gym consistenly have difficulties with programming their workouts and executing lifts with good form as a result of having no one clear, consistent, and trustable source of fitness knowledge. Anatomics exists for this reason: to provide a clear direction for gymgoers of any experience status, regardless of whether they are on day 1 or day 1000. WIP/planned features: 3D workout model view with animations, workout calendar, and food lookup table.</p>
     <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" width="33%">
-      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" width="33%">
-      <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" width="33%">
     </div>
-    <a href="https://github.com/Nicolas-Cunderlik/Spotistats" style="color: #00FFFF;">View Project →</a>
+    <a href="https://github.com/Goshenko/Anatomics" style="color: #00FFFF;">View Project →</a>
   </div>
   <!-- Add more project cards -->
 </div>
