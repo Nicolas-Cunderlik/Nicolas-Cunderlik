@@ -58,6 +58,7 @@
     <p>Modern day fitness apps just don't cut it! Newcomers to the gym consistenly have difficulties with programming their workouts and executing lifts with good form as a result of having no one clear, consistent, and trustable source of fitness knowledge. Anatomics exists for this reason: to provide a clear direction for gymgoers of any experience status, regardless of whether they are on day 1 or day 1000. WIP/planned features: 3D workout model view with animations, workout calendar, and food lookup table.</p>
     <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     </div>
+    <img src="https://raw.githubusercontent.com/Goshenko/Anatomics/refs/heads/main/AnatomicsLandingDemo.PNG">
     <a href="https://github.com/Goshenko/Anatomics" style="color: #00FFFF;">View Project →</a>
   </div>
   <!-- Add more project cards -->
