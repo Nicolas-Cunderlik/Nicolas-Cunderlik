@@ -49,9 +49,7 @@ A custom-built **audio equalizer plugin written in C++**, focused on DSP fundame
 An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like
 (Images below show mid-loading, paused playback, and mid-playback states)
 
-<img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" />
-<img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" />
-<img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" />
+<img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" /><img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" /><img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" />
 
 Key areas explored:
 - Digital signal processing
