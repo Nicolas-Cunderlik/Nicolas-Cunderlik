@@ -46,8 +46,7 @@ A custom-built **audio equalizer plugin written in C++**, focused on DSP fundame
 <img width="99%" alt="EqDemoImage" src="https://github.com/user-attachments/assets/28aa39f9-e6f2-4321-865d-b4c3819bc5db" />
 
 ### Spotify AI Music App
-An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like
-(Images below show mid-loading, paused playback, and mid-playback states)
+An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like (images below show mid-loading, paused playback, and mid-playback states)
 
 <img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" /><img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" /><img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" />
 
