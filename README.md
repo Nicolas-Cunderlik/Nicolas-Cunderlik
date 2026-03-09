@@ -43,12 +43,12 @@ C • C++ • Java • JavaScript • TypeScript • Python • PHP • Lua • 
 ### Audio Equalizer Plugin
 A custom-built **audio equalizer plugin written in C++**, focused on DSP fundamentals and real-time audio processing.
 
-<img width="99%" alt="EqDemoImage" src="https://github.com/user-attachments/assets/28aa39f9-e6f2-4321-865d-b4c3819bc5db" />
+<img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f64bd92d-651a-4689-8072-c3b1fa28c72f" />
 
 ### Spotify AI Music App
 An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like (images below show mid-loading, paused playback, and mid-playback states)
 
-<img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" /><img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" /><img width="33%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" />
+<img width="33.3%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" /><img width="33.3%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" /><img width="33.3%" alt="EqDemoImage" src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" />
 
 Key areas explored:
 - Digital signal processing
