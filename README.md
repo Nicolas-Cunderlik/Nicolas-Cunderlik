@@ -43,7 +43,7 @@ C • C++ • Java • JavaScript • TypeScript • Python • PHP • Lua • 
 ### Audio Equalizer Plugin
 A custom-built **audio equalizer plugin written in C++**, focused on DSP fundamentals and real-time audio processing.
 
-<img width="810" height="431" alt="EqDemoImage" src="https://github.com/user-attachments/assets/28aa39f9-e6f2-4321-865d-b4c3819bc5db" />
+<img width="99%" alt="EqDemoImage" src="https://github.com/user-attachments/assets/28aa39f9-e6f2-4321-865d-b4c3819bc5db" />
 
 ### Spotify AI Music App
 An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like
