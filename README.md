@@ -14,35 +14,6 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 <br />
 </div>
 
-<div align="center" target="_blank"><h2>Recent Progress</h2></div>
-
-<div align=center>
-<p>Built a C++ audio equalizer plugin</p>
-<p>Solved 40+ LeetCode problems</p>
-<p>Implemented a widely-adopted RAG pipeline for content generation during an internship</p>
-<br />
-</div>
-
----
-
-<div align="center" target="_blank"><h2>Goals - 2026</h2></div>
-
-<div align=center>
-<p>Dive deeper into Machine Learning</p>
-<p>Apply ML to music production and audio tools</p>
-<p>Create a polyphonic note/key detector using ML algorithms</p>
-<br />
-</div>
-
-<div align="center" target="_blank"><h2>Goals - 2025</h2></div>
-
-<div align=center>
-<p>Strengthen C++ proficiency ✔ (Made Eq)</p>
-<p>Develop deeper understanding of DSA ✔ (Completed 40+ LC)</p>
-<p>Build more systems/audio-related projects ✔ (Made Eq)</p>
-<br />
-</div>
-
 ---
 
 <!-- Skills Section -->
@@ -88,6 +59,37 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initial load &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Playback paused &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mid-playback
 </p>
+
+---
+
+<div align="center" target="_blank"><h2>Recent Progress</h2></div>
+
+<div align=center>
+<p>Built a C++ audio equalizer plugin</p>
+<p>Solved 40+ LeetCode problems</p>
+<p>Implemented a widely-adopted RAG pipeline for content generation during an internship</p>
+<br />
+</div>
+
+---
+
+<div align="center" target="_blank"><h2>Goals - 2026</h2></div>
+
+<div align=center>
+<p>Dive deeper into Machine Learning</p>
+<p>Apply ML to music production and audio tools</p>
+<p>Create a polyphonic note/key detector using ML algorithms</p>
+<br />
+</div>
+
+<div align="center" target="_blank"><h2>Goals - 2025</h2></div>
+
+<div align=center>
+<p>Strengthen C++ proficiency ✔ (Made Eq)</p>
+<p>Develop deeper understanding of DSA ✔ (Completed 40+ LC)</p>
+<p>Build more systems/audio-related projects ✔ (Made Eq)</p>
+<br />
+</div>
 
 ---
 
