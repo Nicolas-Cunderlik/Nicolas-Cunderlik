@@ -8,9 +8,8 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 <div align="center" target="_blank"><h2>About Me</h2></div>
 
 <div align=center>
-<p>Computer Science student at Carleton University (AI/ML stream)</p>
-<p>Interested in music technology, audio plugins, and machine learning</p>
-<p>Focused on strengthening C++ and systems-level programming</p>
+<p>Interested in machine learning, music technology, and audio plugin programming</p>
+<p>Focused on strengthening C++ and ML</p>
 </div>
 
 ---
