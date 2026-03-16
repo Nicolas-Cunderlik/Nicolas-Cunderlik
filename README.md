@@ -1,3 +1,4 @@
+<!-- Title -->
 <div align="center" target="_blank"><h1>Hi 👋, I'm Nicolas Cunderlik</h2></div>
 <p align="center">
 CS Student @ Carleton University • Interested in AI/ML and Audio Software
@@ -5,6 +6,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 
 ---
 
+<!-- About Me -->
 <div align="center" target="_blank"><h2>About Me</h2></div>
 
 <div align=center>
@@ -14,7 +16,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 
 ---
 
-<!-- Skills Section -->
+<!-- Skills -->
 <div align="center" target="_blank"><h2>Tech Stack</h2></div>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -36,22 +38,32 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 
 ---
 
-<br />
+<!-- Projects -->
 <div align="center" target="_blank"><h1>Projects</h1></div>
 
+<!-- Polaris - McGill AeroHacks -->
+<div align="center" target="_blank""><h2>Polaris - McGill AeroHacks 2026, Top 3 Overall</h2>
+
+<div align=center>
+<p>A prototype distributed infrastructure and cloud network for drone fleets, so companies can coordinate drone communication and battery management https://polar-vercel-umber.vercel.app/, https://devpost.com/software/polaris-xw9ukv/</p>
+</div>
+
+<img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
+
+<!-- Eq Plugin -->
 <div align="center" target="_blank"><h2>Audio Equalizer Plugin</h2></div>
 
 <div align=center>
-<p>A custom-built audio equalizer plugin written in C++, focused on DSP fundamentals and real-time audio processing.</p>
+<p>A custom-built audio equalizer plugin written in C++, focused on DSP fundamentals and real-time audio processing https://github.com/Nicolas-Cunderlik/SimpleEqPlugin</p>
 </div>
 
 <img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f64bd92d-651a-4689-8072-c3b1fa28c72f" />
 
+<!-- Spotify AI Music App -->
 <div align="center" target="_blank"><h2>Spotify AI Music App</h2></div>
 
-
 <div align=center>
-<p>An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like.</p>
+<p>An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like</p>
 </div>
 
 <table align="center">
@@ -73,12 +85,14 @@ Mid-playback
 
 ---
 
-<br />
+<!-- More About Me -->
 <div align="center" target="_blank"><h1>More About Me</h1></div>
 
+<!-- Recent Progress -->
 <div align="center" target="_blank"><h2>Recent Progress</h2></div>
 
 <div align=center>
+<p>Nearly won the first-ever McGill AeroHacks hackathon</p>
 <p>Built a C++ audio equalizer plugin</p>
 <p>Solved 40+ LeetCode problems</p>
 <p>Implemented a widely-adopted RAG pipeline for content generation during an internship</p>
@@ -86,6 +100,7 @@ Mid-playback
 
 ---
 
+<!-- Goals -->
 <div align="center" target="_blank"><h2>Goals - 2026</h2></div>
 
 <div align=center>
@@ -94,6 +109,7 @@ Mid-playback
 <p>Create a polyphonic note/key detector using ML algorithms</p>
 </div>
 
+<!-- Old Goals -->
 <div align="center" target="_blank"><h2>Goals - 2025</h2></div>
 
 <div align=center>
@@ -104,6 +120,7 @@ Mid-playback
 
 ---
 
+<!-- Stats -->
 <div align="center" target="_blank"><h2>GitHub Stats</h2></div>
 
 <p align="center">
@@ -112,6 +129,7 @@ Mid-playback
 
 ---
 
+<!-- Contact -->
 <div align="center" target="_blank"><h2>Contact</h2></div>
 
 <div align=center>
