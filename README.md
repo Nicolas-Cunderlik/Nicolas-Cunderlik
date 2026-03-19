@@ -1,5 +1,5 @@
 <!-- Title -->
-<div align="center" target="_blank"><h1>Hi 👋, I'm Nicolas Cunderlik</h2></div>
+<div align="center" target="_blank"><h1>Hi, I'm Nicolas Cunderlik</h2></div>
 <p align="center">
 CS Student @ Carleton University • Interested in AI/ML and Audio Software
 </p>
