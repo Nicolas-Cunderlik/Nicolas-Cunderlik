@@ -60,7 +60,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 <img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f4cc86a8-c6cb-4cbf-a3ac-71022cd40749" />
 
 <!-- Spotify AI Music App -->
-<div align="center" target="_blank"><h2>Spotify AI Music App</h2></div>
+<div align="center" target="_blank"><h2>Spotify AI Music App (No longer working)</h2></div>
 
 <div align=center>
 <p>An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like</p>
