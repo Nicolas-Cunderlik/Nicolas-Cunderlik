@@ -10,8 +10,8 @@ CS Student @ Carleton University • Interested in AI/ML and Audio DSP
 <div align="center" target="_blank"><h2>About Me</h2></div>
 
 <div align=center>
-<p>Interested in machine learning, music technology, and audio plugin programming</p>
-<p>Focused on strengthening C++ and ML</p>
+<p>I'm a student at Carleton University, studying CS with a concentration in AI/ML. I'm mostly interested in music and audio plugin programming, and how I can use ML to improve audio tools.</p>
+<p>Currently, I'm focused on strengthening C++ and ML, especially with plugins centered on the frequency domain (spectrograms, chromagrams, etc.)</p>
 </div>
 
 ---
