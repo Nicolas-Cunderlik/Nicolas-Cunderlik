@@ -57,7 +57,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 <p>A custom-built audio equalizer plugin written in C++, focused on DSP fundamentals and real-time audio processing https://github.com/Nicolas-Cunderlik/SimpleEqPlugin</p>
 </div>
 
-<img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f64bd92d-651a-4689-8072-c3b1fa28c72f" />
+<img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f4cc86a8-c6cb-4cbf-a3ac-71022cd40749" />
 
 <!-- Spotify AI Music App -->
 <div align="center" target="_blank"><h2>Spotify AI Music App</h2></div>
