@@ -1,7 +1,7 @@
 <!-- Title -->
 <div align="center" target="_blank"><h1>Hi, I'm Nicolas Cunderlik</h2></div>
 <p align="center">
-CS Student @ Carleton University • Interested in AI/ML and Audio Software
+CS Student @ Carleton University • Interested in AI/ML and Audio DSP
 </p>
 
 ---
@@ -94,7 +94,7 @@ Mid-playback
 <div align=center>
 <p>Nearly won the first-ever McGill AeroHacks hackathon</p>
 <p>Built a C++ audio equalizer plugin</p>
-<p>Solved 40+ LeetCode problems</p>
+<p>Solved some LeetCode problems (~40)</p>
 <p>Implemented a widely-adopted RAG pipeline for content generation during an internship</p>
 </div>
 
@@ -104,9 +104,10 @@ Mid-playback
 <div align="center" target="_blank"><h2>Goals - 2026</h2></div>
 
 <div align=center>
-<p>Dive deeper into Machine Learning</p>
-<p>Apply ML to music production and audio tools</p>
-<p>Create a polyphonic note/key detector using ML algorithms</p>
+<p>Implement machine learning in at least one personal project</p>
+<p>Improve network by reaching out to at least 5 managers/seniors/executives/etc. on LinkedIn</p>
+<p>Win a hackathon</p>
+<p>Get a girlfriend</p>
 </div>
 
 <!-- Old Goals -->
@@ -116,6 +117,7 @@ Mid-playback
 <p>Strengthen C++ proficiency ✔ (Made Eq)</p>
 <p>Develop deeper understanding of DSA ✔ (Completed 40+ LC)</p>
 <p>Build more systems/audio-related projects ✔ (Made Eq)</p>
+<p>Get a girlfriend ❌ (Sorry dad)</p>
 </div>
 
 ---
@@ -143,5 +145,5 @@ Mid-playback
 <div align="center" target="_blank"><h2>Fun Fact</h2></div>
 
 <div align=center>
-<p>I also make music and enjoy exploring new ways to bridge the worlds of audio engineering, DSP, and machine learning.</p>
+<p>I also make music! You might find some of my songs, or remixes of popular songs (shh... don't tell the feds), in some of my repos</p>
 </div>
