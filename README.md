@@ -63,7 +63,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio Software
 <div align="center" target="_blank"><h2>Spotify AI Music App (No longer working)</h2></div>
 
 <div align=center>
-<p>An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like</p>
+<p>An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like https://github.com/Nicolas-Cunderlik/Spotistats</p>
 </div>
 
 <table align="center">
