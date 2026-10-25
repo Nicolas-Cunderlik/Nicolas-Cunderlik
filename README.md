@@ -45,7 +45,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio DSP
 <div align="center" target="_blank""><h2>Polaris - McGill AeroHacks 2026, Top 3 Overall</h2>
 
 <div align=center>
-<p>A prototype distributed infrastructure and cloud network for drone fleets, so companies can coordinate drone communication and battery management https://polar-vercel-umber.vercel.app/, https://devpost.com/software/polaris-xw9ukv/</p>
+<p>A prototype distributed infrastructure and cloud network for drone fleets, so companies can coordinate drone communication and battery management https://devpost.com/software/polaris-xw9ukv/</p>
 </div>
 
 <img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
@@ -60,7 +60,7 @@ CS Student @ Carleton University • Interested in AI/ML and Audio DSP
 <img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f4cc86a8-c6cb-4cbf-a3ac-71022cd40749" />
 
 <!-- Spotify AI Music App -->
-<div align="center" target="_blank"><h2>Spotify AI Music App (No longer working)</h2></div>
+<div align="center" target="_blank"><h2>Spotify AI Music App</h2></div>
 
 <div align=center>
 <p>An AI-driven chord progression suggestor for you to quickly get around beat block and make the kind of music you like https://github.com/Nicolas-Cunderlik/Spotistats</p>
