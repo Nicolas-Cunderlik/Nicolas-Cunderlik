@@ -1,12 +1,5 @@
 <!-- Title -->
-<img width="2073" height="758" alt="image" src="https://github.com/user-attachments/assets/ca55ca3d-ead9-4c88-8d5f-b70dca4e630b" />
-
----
-
-<!-- About Me -->
-<img width="2073" height="455" alt="Firefly_RemoveBackground2" src="https://github.com/user-attachments/assets/789ec998-d0dd-425f-8fd7-2dc094336846" />
-
----
+<img width="2073" height="758" alt="Neon Cyberpunk GitHub Profile Banner" src="https://github.com/user-attachments/assets/a2e025d8-bde8-4061-8f98-39902ca89299" />
 
 <!-- Skills -->
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="center">
