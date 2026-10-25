@@ -1,5 +1,5 @@
 <!-- Title -->
-<img width="2073" height="758" alt="Neon Cyberpunk GitHub Profile Banner" src="https://github.com/user-attachments/assets/a2e025d8-bde8-4061-8f98-39902ca89299" />
+<img src="https://github.com/Nicolas-Cunderlik/Nicolas-Cunderlik/blob/main/Neon%20Cyberpunk%20GitHub%20Profile%20Banner.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 <!-- Skills -->
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="center">
