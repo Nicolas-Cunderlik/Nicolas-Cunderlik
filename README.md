@@ -35,16 +35,6 @@
   </h2>
 </div>
 
-<!-- Polaris - McGill AeroHacks -->
-<div align="center">
-  <h2>
-    Polaris - McGill AeroHacks 2026, Top 3 Overall
-    <a target="_blank" href="https://devpost.com/software/polaris-xw9ukv/">🔗</a>
-  </h2>
-</div>
-
-<img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
-
 <table align="center">
 <tr>
 <td align="center" width="33.3%">
@@ -61,6 +51,16 @@ Mid-playback
 </td>
 </tr>
 </table>
+
+<!-- Polaris - McGill AeroHacks -->
+<div align="center">
+  <h2>
+    Polaris - McGill AeroHacks 2026, Top 3 Overall
+    <a target="_blank" href="https://devpost.com/software/polaris-xw9ukv/">🔗</a>
+  </h2>
+</div>
+
+<img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
 
 <br>
 
