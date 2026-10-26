@@ -27,6 +27,14 @@
 </div>
 <img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/f4cc86a8-c6cb-4cbf-a3ac-71022cd40749" />
 
+<!-- Spotify AI Music App -->
+<div align="center">
+  <h2>
+    Spotify AI Music App (WIP 😉)
+    <a target="_blank" href="https://github.com/Nicolas-Cunderlik/Overtone">🔗</a>
+  </h2>
+</div>
+
 <!-- Polaris - McGill AeroHacks -->
 <div align="center">
   <h2>
@@ -36,14 +44,6 @@
 </div>
 
 <img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
-
-<!-- Spotify AI Music App -->
-<div align="center">
-  <h2>
-    Spotify AI Music App (WIP 😉)
-    <a target="_blank" href="https://github.com/Nicolas-Cunderlik/Overtone">🔗</a>
-  </h2>
-</div>
 
 <table align="center">
 <tr>
