@@ -39,7 +39,7 @@
 <tr>
 <td align="center" width="33.3%">
 <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" width="100%"><br>
-No playback yet
+Pre-playback
 </td>
 <td align="center" width="33.3%">
 <img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" width="100%"><br>
