@@ -17,9 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
-
----
-
+<br>
 <!-- Eq Plugin -->
 <div align="center">
   <h2>
@@ -64,14 +62,31 @@ Mid-playback
 </tr>
 </table>
 
+<br>
+
 ---
 
 <!-- Stats -->
-<div align="center" target="_blank"><h2>GitHub Stats</h2></div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Cunderlik&theme=dark" height="165"/>
-</p>
+<table align="center">
+  <tr>
+      <td align="center" valign="middle">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22vac4wics2rhdedku5jyrlii&redirect=true">
+        <img
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=22vac4wics2rhdedku5jyrlii&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false"
+          height="300"
+          alt="Spotify Now Playing"
+        />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Cunderlik&theme=dark"
+        height="350"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
