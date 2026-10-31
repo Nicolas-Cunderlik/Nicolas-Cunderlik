@@ -30,27 +30,11 @@
 <!-- Spotify AI Music App -->
 <div align="center">
   <h2>
-    Spotify AI Music App (WIP 😉)
+    Overtone - AI Music App for Spotify
     <a target="_blank" href="https://github.com/Nicolas-Cunderlik/Overtone">🔗</a>
   </h2>
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="33.3%">
-<img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsInitialBoot.PNG" width="100%"><br>
-Pre-playback
-</td>
-<td align="center" width="33.3%">
-<img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsSongPaused.PNG" width="100%"><br>
-Playback paused
-</td>
-<td align="center" width="33.3%">
-<img src="https://raw.githubusercontent.com/Nicolas-Cunderlik/Nicolas-Cunderlik/refs/heads/main/SpotistatsCurrentlyPlaying.PNG" width="100%"><br>
-Mid-playback
-</td>
-</tr>
-</table>
+<img width="100%" alt="Eq GUI open in DAW" src="https://github.com/user-attachments/assets/af7ce7a2-5310-4110-8c8c-e466f9ccd07d" />
 
 <!-- Polaris - McGill AeroHacks -->
 <div align="center">
